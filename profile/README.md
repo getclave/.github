@@ -1,6 +1,6 @@
 # Clave
 
-<img src="./clave-colored.png" width="120px" />
+<img src="https://raw.githubusercontent.com/getclave/.github/master/profile/clave-colored.png" width="120px" />
 
 Forget private keys and seed phrases. Embrace Account Abstraction storing keys on hardware for the easiest access to the future of finance.
 
