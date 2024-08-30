@@ -8,6 +8,20 @@ Forget private keys and seed phrases. Embrace Account Abstraction storing keys o
 
 Clave is en route to becoming a smart contract wallet powered by account abstraction and trusted execution elements capabilities, fundamentally reshaping the user experience for all those prepared to participate in the web3 revolution.
 
-Join the waitlist now to be among the first to experience Clave!
+## What Clave Offers?
 
-https://getclave.io
+### ⏩ One-Click Onboarding
+
+### 🆓 Gasless Transactions
+
+### 💰 Yield Opportunities
+
+### 🔗 Sending tokens with links
+
+### 1️⃣ Everything is one-click
+
+## Useful Link:
+
+Download Clave - https://getclave.io/download
+
+Clave Documentation - https://docs.getclave.io
