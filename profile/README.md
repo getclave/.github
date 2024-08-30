@@ -1,13 +1,22 @@
 # Clave
 
 <img src="https://raw.githubusercontent.com/getclave/.github/master/profile/1024x1024.png" width="156px" />
+One-click onboarding to onchain payments. Experience smartest self-custody and hardware-level security. Backed by [Matter Labs](https://matter-labs.io/) and Ethereum Foundation (ERC-4337 Team) Grantee.
 
-Forget private keys and seed phrases. Embrace Account Abstraction storing keys on hardware for the easiest access to the future of finance.
+##Welcome to Clave!
+Clave is a self-custodial smart wallet powered by ZKsync, designed to deliver a seamless, user-friendly financial experiences with zero gas fees. With Clave, crypto becomes accessible to everyone.
 
-## What is Clave?
+Clave Offers:
+⏩ One-Click Onboarding
 
-Clave is en route to becoming a smart contract wallet powered by account abstraction and trusted execution elements capabilities, fundamentally reshaping the user experience for all those prepared to participate in the web3 revolution.
+🆓 Gasless Transactions
 
-Join the waitlist now to be among the first to experience Clave!
+💰 Yield Opportunities
 
-https://getclave.io
+🔗 Sending tokens with links
+
+1️⃣ Everything is one-click
+
+Download Clave:
+
+https://getclave.io/download
